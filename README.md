@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%23F70000&size=20&duration=5000&lines=Jack+Of+All+Trades;Master+Of+Some;Oh%2C+I+am+a+software+Developer.)](https://git.io/typing-svg)
 
 <!--
 **thoraiia/thoraiia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
